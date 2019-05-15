@@ -1,0 +1,20 @@
+
+
+Install Anaconda Navigator for runnig the python
+
+
+Install the below Libraries using the Terminal
+-----------------------------------------------
+pip install theano
+pip install keras
+pip install tensorflow
+conda update --all
+
+
+Test the program by running the blow command after going into the directory Traffic_Analysis_Python_code 
+--------------------------------------------------------------------------------------------------------
+java RunPython LowTraffic1.jpg
+
+
+
+
